@@ -1,44 +1,44 @@
-📊 The Gold Standard: RFM Analysis (Segmentation, Descriptive Analytics)
+## 📊 RFM Analysis (Segmentation, Descriptive Analytics)
 
-💡What is RFM Analysis?
+## 📊 Case Study Background-Business Scenario
+💡A retail company wants to:
 
-RFM Analysis is a customer segmentation technique used to evaluate and rank customers based on their purchasing behavior. It uses three factors:
+❑ Identify high-value customers
 
-•	R — Recency: How recently a customer purchased (Engagement)
+❑ Segment customers based on purchasing behavior
 
-•	F — Frequency: How often customers purchase (Loyalty)
+❑ Improve marketing strategy
 
-•	M — Monetary: How much money customers spend (Value)
+❑ Increase customer retention
 
-By scoring each customer on these three dimensions, businesses can identify high-value customers, target marketing efforts more effectively, and improve customer retention strategies.
+## 💡Problem Statement:
+How can we segment customers using RFM analysis to support data-driven marketing decisions?
 
-💡Why Should You Use RFM Analysis?
+## Tools Used
+In this project, data transformation is demonstrated using Power BI Platform to showcase comprehensive tool competency and comparative understanding.
 
-Identify high-value customers
+## Reporting & Communication
+Executive Summary:
+- A total of 812 customers generated $59.85 billion total revenues, segmented into 8 behavioral groups.
 
-Detect loyal vs inactive customers
+Key Insights:
+- 53.14% revenue from 8.13% customers (Champions) → high dependency
+- 25% revenue at risk high-value customers
+- Low engagement: only 34.48% active, 45.69% low-value inactive
+-	Only 16.38% high-value customers → growth opportunity
 
-Improve marketing targeting
+Key Opportunity:
+- 25% of customers (Potential Loyalists + Loyal High Value) can be developed into future high-value segments
 
-Increase customer retention
+Strategic Focus:
+- Retain Champions (protect core revenue)
+- Reactivate At Risk High Value (reduce revenue loss)
+- Upsell mid-tier segments (drive growth)
+- Optimize cost on low-value inactive customers
 
-Support data-driven business decisions
+Conclusion: 
+- Shift from broad marketing to targeted, data-driven customer strategies to improve retention, increase customer value, and ensure sustainable revenue growth.
 
+## Dashboard
+![Dashboard](Dashboard/dashboard.png)
 
-📊 How to Use RFM Analysis — Step-by-Step
-
-💡RFM Metric Definitions
-
-Recency: Days since last purchase (Recency = Analysis Date – Last Purchase Date)
-
-Number of days since the customer's last purchase - More recent purchases indicate higher engagement
-
-Frequency: Number of transactions count
-
-Total number of purchases or invoices by the customer - Frequent buyers are more loyal
-
-Monetary: Total or average spending
-
-Total amount spent by the customer - Higher spending reflects greater value
-
-  
