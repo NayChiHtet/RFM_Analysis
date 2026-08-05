@@ -24,6 +24,7 @@ Increase customer retention
 
 Support data-driven business decisions
 
+
 📊 How to Use RFM Analysis — Step-by-Step
 
 💡RFM Metric Definitions
@@ -40,3 +41,4 @@ Monetary: Total or average spending
 
 Total amount spent by the customer - Higher spending reflects greater value
 
+  
