@@ -40,5 +40,5 @@ Conclusion:
 - Shift from broad marketing to targeted, data-driven customer strategies to improve retention, increase customer value, and ensure sustainable revenue growth.
 
 ## Dashboard
-![Dashboard](Dashboard/dashboard.png)
+Sales Summary Dashboard.png
 
